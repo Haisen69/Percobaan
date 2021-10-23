@@ -1,2 +1,0 @@
-# Percobaan
-Cuma contoh
